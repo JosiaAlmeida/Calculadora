@@ -1,0 +1,10 @@
+C:\Users\JJA\Documents\Nova pasta\calc\calc\bin\Debug\calc.exe.config
+C:\Users\JJA\Documents\Nova pasta\calc\calc\bin\Debug\calc.exe
+C:\Users\JJA\Documents\Nova pasta\calc\calc\bin\Debug\calc.pdb
+C:\Users\JJA\Documents\Nova pasta\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Users\JJA\Documents\Nova pasta\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\JJA\Documents\Nova pasta\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\JJA\Documents\Nova pasta\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\JJA\Documents\Nova pasta\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\JJA\Documents\Nova pasta\calc\calc\obj\Debug\calc.exe
+C:\Users\JJA\Documents\Nova pasta\calc\calc\obj\Debug\calc.pdb
